@@ -1,0 +1,4 @@
+[submodule "andreampiovesana/addons_it"]
+	path = andreampiovesana/addons_it
+	url = git@github.com:andreampiovesana/addons_it.git
+	branch = 16.0
