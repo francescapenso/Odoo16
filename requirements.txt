@@ -5,3 +5,4 @@ unidecode
 unicodecsv
 git+https://github.com/OCA/openupgradelib.git@master
 odoorpc
+xmlschema
