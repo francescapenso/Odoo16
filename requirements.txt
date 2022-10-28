@@ -1,2 +1,7 @@
+codicefiscale==0.9
+pyxb==1.2.6
+asn1crypto
+unidecode
+unicodecsv
 git+https://github.com/OCA/openupgradelib.git@master
-PyXB >= 1.2.6
+odoorpc
